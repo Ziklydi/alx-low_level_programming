@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * 
- *Description: 'The program description'
+* main - Entry point
+* 
+*Description: 'The program description'
 *Return: Always 0 (success)
 */
 int main(void)
