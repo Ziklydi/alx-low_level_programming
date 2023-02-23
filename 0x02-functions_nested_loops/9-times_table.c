@@ -27,7 +27,7 @@ else if (rep < 10);
 _putchar(' ');
 _putchar('0' + rep);
 }
-else
+else if
 {
 _putchar('0' + rep / 10);
 _putchar('0' + rep % 10);
@@ -42,7 +42,4 @@ b++;
 _putchar('\n');
 a++;
 }
-}
-}
-
-
+}}
